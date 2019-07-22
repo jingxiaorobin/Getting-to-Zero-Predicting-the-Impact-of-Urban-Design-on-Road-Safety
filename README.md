@@ -2,7 +2,7 @@
 
 This project is NYU CUSP Capstone project sponsored by State of Place company to detect urban design impact on  pedestrain needs and safety in New York City.
 
-### Team member: Cyrus Blankinship, Eve Marenghi, Pablo Mandiola, Wei-Yun Wang and Xiao(Robin) Jing 
+### Team members: [Cyrus Blankinship](https://github.com/cyrusblankinship), Eve Marenghi, [Pablo Mandiola](https://github.com/pmandiola), Wei-Yun Wang and [Xiao(Robin) Jing](https://github.com/jingxiaorobin) 
 
 + Data Ingesting and Wrangling stage is composed of two data source.
     > NYC Open Data
